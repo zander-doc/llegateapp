@@ -1,0 +1,1 @@
+export { FooterCopyright } from "@/secciones/pie de página/componentes/FooterCopyright";

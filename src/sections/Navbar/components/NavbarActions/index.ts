@@ -1,0 +1,1 @@
+export { NavbarActions } from "@/secciones/barra de navegacion/componentes/NavbarActions";

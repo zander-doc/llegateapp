@@ -1,0 +1,1 @@
+export { Hero } from "../../secciones/héroe/índice";

@@ -1,0 +1,1 @@
+export { FaqItem } from "@/secciones/sección de preguntas frecuentes/componentes/FaqItem";

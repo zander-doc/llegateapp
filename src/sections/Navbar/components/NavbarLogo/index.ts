@@ -1,0 +1,1 @@
+export { NavbarLogo } from "@/secciones/barra de navegacion/componentes/NavbarLogo";

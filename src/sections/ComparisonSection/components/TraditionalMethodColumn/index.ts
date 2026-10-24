@@ -1,0 +1,1 @@
+export { TraditionalMethodColumn } from "@/secciones/sección de comporación/componetes/columnametodo tradiconal";

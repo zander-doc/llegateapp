@@ -1,0 +1,1 @@
+export { SafetySection } from "../../secciones/seccion de seguridad/índice";

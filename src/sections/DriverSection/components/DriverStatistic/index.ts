@@ -1,0 +1,1 @@
+export { DriverStatistic } from "@/secciones/sección del conductor/componentes/DriverStatisticProps";

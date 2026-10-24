@@ -1,0 +1,1 @@
+export { SafetyFeatureCard } from "@/secciones/seccion de seguridad/componente/SafetyFeatureCardProps";

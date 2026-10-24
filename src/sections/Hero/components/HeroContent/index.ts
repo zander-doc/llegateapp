@@ -1,0 +1,1 @@
+export { HeroContent } from "@/secciones/héroe/componente/HeroContent";

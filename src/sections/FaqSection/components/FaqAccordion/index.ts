@@ -1,0 +1,1 @@
+export { FaqAccordion as FaqSection } from "@/secciones/sección de preguntas frecuentes/componentes/FaqAccordion";

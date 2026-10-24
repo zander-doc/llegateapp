@@ -1,0 +1,1 @@
+export { FooterContent } from "@/secciones/pie de página/componentes/contenido del pie de pagina";

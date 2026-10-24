@@ -1,0 +1,1 @@
+export { ComparisonCallToAction } from "@/secciones/sección de comporación/componetes/ComparisonCallToAction";

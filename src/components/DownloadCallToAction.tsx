@@ -1,0 +1,1 @@
+export { DownloadCallToAction, type DownloadCallToActionProps } from "../componentes/DownloadCallToActionProps";

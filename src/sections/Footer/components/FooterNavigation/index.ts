@@ -1,0 +1,1 @@
+export { FooterNavigation } from "@/secciones/pie de página/componentes/FooterNavigation";

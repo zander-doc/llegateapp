@@ -1,0 +1,1 @@
+export { TeamMemberCard } from "@/secciones/seccion de equipo/componente/TeamMemberCard";

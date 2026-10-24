@@ -1,0 +1,1 @@
+export { SafetyFeatures } from "@/secciones/seccion de seguridad/componente/SafetyFeatures";

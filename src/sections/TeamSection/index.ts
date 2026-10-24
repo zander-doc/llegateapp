@@ -1,0 +1,1 @@
+export { TeamSection } from "../../secciones/seccion de equipo/Índice";

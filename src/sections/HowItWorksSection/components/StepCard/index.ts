@@ -1,0 +1,1 @@
+export { StepCard } from "@/secciones/seccion de como funciona/componentes/StepCardProps";

@@ -1,0 +1,1 @@
+export { FlashyMethodColumn } from "@/secciones/sección de comporación/componetes/columna de metodo llamativo";

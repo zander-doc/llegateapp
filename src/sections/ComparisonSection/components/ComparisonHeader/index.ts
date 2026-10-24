@@ -1,0 +1,1 @@
+export { ComparisonHeader } from "@/secciones/sección de comporación/componetes/encabezado de comparacion";

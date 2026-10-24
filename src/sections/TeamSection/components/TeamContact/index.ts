@@ -1,0 +1,1 @@
+export { TeamContact } from "@/secciones/seccion de equipo/componente/TeamContact";

@@ -1,0 +1,1 @@
+export { DownloadButtons, type DownloadButtonsProps } from "../componentes/DownloadButtonsProps";

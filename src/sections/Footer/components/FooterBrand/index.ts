@@ -1,0 +1,1 @@
+export { FooterBrand } from "@/secciones/pie de página/componentes/pie de pagina de marca";

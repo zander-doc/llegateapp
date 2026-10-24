@@ -1,0 +1,1 @@
+export { HeroBackground } from "@/secciones/héroe/componente/HeroBackground";

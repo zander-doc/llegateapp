@@ -1,0 +1,1 @@
+export { FeatureTicker } from "../../secciones/featuretiker/índice";

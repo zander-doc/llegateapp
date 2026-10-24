@@ -1,0 +1,1 @@
+export { HowItWorksSection } from "../../secciones/seccion de como funciona/índice";

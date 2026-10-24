@@ -1,0 +1,1 @@
+export { FooterSocialLinks } from "@/secciones/pie de página/componentes/FooterSocialLinks";

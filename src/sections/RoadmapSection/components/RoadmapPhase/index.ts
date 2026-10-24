@@ -1,0 +1,1 @@
+export { RoadmapPhase } from "@/secciones/seccion de la hoja de ruta/componente/RoadmapPhaseProps";

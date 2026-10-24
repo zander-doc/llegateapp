@@ -1,0 +1,1 @@
+export { FaqSection } from "../../secciones/sección de preguntas frecuentes/índice";

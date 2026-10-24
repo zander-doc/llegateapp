@@ -1,0 +1,1 @@
+export { ComparisonColumns } from "@/secciones/sección de comporación/componetes/columna de comparacion";

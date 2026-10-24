@@ -1,0 +1,1 @@
+export { RegistrationSocialProof } from "@/secciones/héroe/componente/RegistrationSocialProof";

@@ -1,0 +1,1 @@
+export { DesktopNavbar } from "@/secciones/barra de navegacion/componentes/DesktopNavbar";
