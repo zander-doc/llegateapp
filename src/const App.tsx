@@ -1,4 +1,4 @@
-import { Navbar } from "@/sections/Navbar";
+﻿import { Navbar } from "@/sections/Navbar";
 import { Main } from "@/sections/Main";
 import { Footer } from "@/sections/Footer";
 
