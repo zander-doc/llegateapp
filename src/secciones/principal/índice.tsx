@@ -1,4 +1,3 @@
-import { Hero } from "@/sections/Hero";
 import { FeatureTicker } from "@/sections/FeatureTicker";
 import { HowItWorksSection } from "@/sections/HowItWorksSection";
 import { ComparisonSection } from "@/sections/ComparisonSection";
@@ -15,7 +14,6 @@ export const Main = () => {
       aria-label="Contenido principal"
       className="box-border caret-transparent outline-[3px] no-underline"
     >
-      <Hero />
       <FeatureTicker />
       <HowItWorksSection />
       <ComparisonSection />
