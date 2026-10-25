@@ -5,7 +5,7 @@ import { Main } from "@/sections/Main";
 import { Footer } from "@/sections/Footer";
 import ServicesGrid from "./components/ServicesGrid";
 import AuthTabs from "./components/AuthTabs";
-import Sponsors from "./components/Sponsors";
+import MercadoMotor from "./components/MercadoMotor";
 import SubscriptionPlans from "./components/SubscriptionPlans";
 import { DataSaverProvider } from "./context/DataSaverContext";
 
@@ -57,7 +57,7 @@ export const App = () => {
         </section>
 
         {/* Alianzas y Socios Comerciales */}
-        <Sponsors />
+        <MercadoMotor />
 
         {/* Pie de página institucional */}
         <Footer />
