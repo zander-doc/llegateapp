@@ -1,6 +1,5 @@
 import React from "react";
 import { Navbar } from "@/sections/Navbar";
-import { Hero } from "@/sections/Hero";
 import { Main } from "@/sections/Main";
 import { Footer } from "@/sections/Footer";
 import ServicesGrid from "./components/ServicesGrid";
@@ -13,10 +12,7 @@ export const App = () => {
       {/* Barra de navegación fija */}
       <Navbar />
 
-      {/* Sección Principal / Hero */}
-      <Hero />
-
-      {/* Bloque central de características / funcionalidades */}
+      {/* Bloque central de características / funcionalidades (incluye Hero) */}
       <Main />
 
       {/* Cuadrícula de Servicios unificada (Mototaxi, Taxi, Delivery) */}
