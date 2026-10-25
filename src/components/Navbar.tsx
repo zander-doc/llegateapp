@@ -5,8 +5,11 @@ export default function Navbar() {
     <header className="fixed top-0 inset-x-0 z-50 backdrop-blur-md bg-asphalt-950/80 border-b border-asphalt-800">
       <nav className="container mx-auto flex items-center justify-between h-16 px-4">
         <a href="#" className="flex items-center gap-2">
-          <span className="inline-flex items-center justify-center w-9 h-9 rounded-lg bg-neonOrange-500 text-asphalt-950 font-bold">L</span>
-          <span className="font-bebas_neue text-2xl tracking-wide text-white">LLEGATE<span className="text-neonOrange-500">APP</span></span>
+          <img
+            src="https://c.animaapp.com/lXaZZWUN0icVGNVaoQwsaA/img/uploaded-asset-1792840981980-0.png"
+            alt="Logo de Llegateapp — app de mototaxis y taxis"
+            className="box-border caret-transparent max-w-full min-h-[auto] min-w-[auto] outline-[3px] no-underline w-[220px]"
+          />
         </a>
         <div className="hidden md:flex items-center gap-8 text-sm text-asphalt-200">
           <a href="#servicios" className="hover:text-neonOrange-500 transition-colors">Servicios</a>
