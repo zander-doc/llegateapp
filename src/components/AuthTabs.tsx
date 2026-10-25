@@ -1,4 +1,4 @@
-﻿import React, { useState } from "react";
+import React, { useState } from "react";
 
 export default function AuthTabs() {
   const [tab, setTab] = useState<"driver" | "passenger">("driver");
@@ -12,20 +12,20 @@ export default function AuthTabs() {
           </div>
           {tab === "driver" ? (
             <div className="rounded-2xl bg-slate-900 border border-slate-700 p-8 md:p-12">
-              <h3 className="font-bebas_neue text-4xl text-white">SUSCRIPCIÃ“N FIJA MENSUAL</h3>
-              <p className="mt-3 text-stone-300">Paga una cuota mensual y quÃ©date con el 100% de tus ganancias. Sin comisiones por viaje.</p>
+              <h3 className="font-bebas_neue text-4xl text-white">SUSCRIPCIÓN FIJA MENSUAL</h3>
+              <p className="mt-3 text-stone-300">Paga una cuota mensual y quédate con el 100% de tus ganancias. Sin comisiones por viaje.</p>
               <ul className="mt-6 space-y-3 text-stone-200">
-                <li className="flex items-center gap-3"><span className="text-neonOrange-500">âœ“</span> Tarifa fija predecible</li>
-                <li className="flex items-center gap-3"><span className="text-neonOrange-500">âœ“</span> Soporte 24/7</li>
-                <li className="flex items-center gap-3"><span className="text-neonOrange-500">âœ“</span> Bonos por referidos</li>
-                <li className="flex items-center gap-3"><span className="text-neonOrange-500">âœ“</span> Acceso a encomiendas y turismo</li>
+                <li className="flex items-center gap-3"><span className="text-neonOrange-500">✓</span> Tarifa fija predecible</li>
+                <li className="flex items-center gap-3"><span className="text-neonOrange-500">✓</span> Soporte 24/7</li>
+                <li className="flex items-center gap-3"><span className="text-neonOrange-500">✓</span> Bonos por referidos</li>
+                <li className="flex items-center gap-3"><span className="text-neonOrange-500">✓</span> Acceso a encomiendas y turismo</li>
               </ul>
               <button className="mt-8 px-6 py-3 rounded-xl bg-neonOrange-500 text-slate-950 font-bold hover:bg-neonOrange-400 transition-colors">Registrarme como conductor</button>
             </div>
           ) : (
             <div className="rounded-2xl bg-slate-900 border border-slate-700 p-8 md:p-12 text-center">
               <h3 className="font-bebas_neue text-4xl text-white">DESCARGA LA APP</h3>
-              <p className="mt-3 text-stone-300">Escanea el cÃ³digo QR y comienza a moverte hoy mismo.</p>
+              <p className="mt-3 text-stone-300">Escanea el código QR y comienza a moverte hoy mismo.</p>
               <div className="mt-8 mx-auto w-48 h-48 rounded-2xl bg-white flex items-center justify-center">
                 <div className="grid grid-cols-5 gap-1">
                   {Array.from({ length: 25 }).map((_, i) => (
@@ -41,5 +41,3 @@ export default function AuthTabs() {
     </section>
   );
 }
-
-
