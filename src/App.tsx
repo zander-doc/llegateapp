@@ -6,6 +6,7 @@ import { Footer } from "@/sections/Footer";
 import ServicesGrid from "./components/ServicesGrid";
 import AuthTabs from "./components/AuthTabs";
 import Sponsors from "./components/Sponsors";
+import SubscriptionPlans from "./components/SubscriptionPlans";
 import { DataSaverProvider } from "./context/DataSaverContext";
 
 export const App = () => {
