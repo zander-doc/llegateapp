@@ -17,12 +17,12 @@ export default function SubscriptionPlans() {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
         <div className="rounded-2xl bg-slate-900 border border-slate-700 p-8 hover:border-neonOrange-500 transition-colors">
-          <h3 className="font-bebas_neue text-3xl text-white">Conductor Pro</h3>
+          <h3 className="font-outfit text-3xl text-white">Conductor Pro</h3>
           <p className="mt-3 text-stone-300">Cuota mensual fija, reduce tu comisión por viaje al 5%.</p>
           <button className="mt-6 px-6 py-3 rounded-xl bg-neonOrange-500 text-slate-950 font-bold hover:bg-neonOrange-400 transition-colors">Elegir plan</button>
         </div>
         <div className="rounded-2xl bg-slate-900 border border-slate-700 p-8 hover:border-techBlue-500 transition-colors">
-          <h3 className="font-bebas_neue text-3xl text-white">Usuario Plus</h3>
+          <h3 className="font-outfit text-3xl text-white">Usuario Plus</h3>
           <p className="mt-3 text-stone-300">Sin tarifa de servicio y prioridad en asignación de viajes en horas pico.</p>
           <button className="mt-6 px-6 py-3 rounded-xl bg-techBlue-500 text-white font-bold hover:bg-techBlue-400 transition-colors">Elegir plan</button>
         </div>

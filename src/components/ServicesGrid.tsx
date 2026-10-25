@@ -24,7 +24,7 @@ export default function ServicesGrid() {
                 }`}
               >
                 <div className="text-5xl mb-4"><Icon className="w-12 h-12" /></div>
-                <h3 className="font-bebas_neue text-2xl text-stone-100 tracking-wide">{s.title}</h3>
+                <h3 className="font-outfit text-2xl text-stone-100 tracking-wide">{s.title}</h3>
                 <p className="mt-2 text-sm text-stone-300">{s.desc}</p>
                 <div className={`mt-6 flex items-center text-sm font-semibold transition-colors ${
                   s.color === "neonOrange" ? "text-neonOrange-400 group-hover:text-neonOrange-300" : "text-techBlue-400 group-hover:text-techBlue-300"

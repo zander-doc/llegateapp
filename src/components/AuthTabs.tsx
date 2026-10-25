@@ -19,7 +19,7 @@ export default function AuthTabs() {
           </div>
           {tab === "passenger" ? (
             <div className="rounded-2xl bg-slate-900 border border-slate-700 p-8 md:p-12 text-center">
-              <h3 className="font-bebas_neue text-4xl text-white">DESCARGA LA APP</h3>
+              <h3 className="font-outfit text-4xl text-white">DESCARGA LA APP</h3>
               <p className="mt-3 text-stone-300">Escanea el código QR y comienza a moverte hoy mismo.</p>
               <div className="mt-8 mx-auto w-48 h-48 rounded-2xl bg-white flex items-center justify-center">
                 <div className="grid grid-cols-5 gap-1">
@@ -32,7 +32,7 @@ export default function AuthTabs() {
             </div>
           ) : (
             <div className="rounded-2xl bg-slate-900 border border-slate-700 p-8 md:p-12">
-              <h3 className="font-bebas_neue text-4xl text-white">SUSCRIPCIÓN FIJA MENSUAL</h3>
+              <h3 className="font-outfit text-4xl text-white">SUSCRIPCIÓN FIJA MENSUAL</h3>
               <p className="mt-3 text-stone-300">Paga una cuota mensual y quédate con el 100% de tus ganancias. Sin comisiones por viaje.</p>
               <ul className="mt-6 space-y-3 text-stone-200">
                 <li className="flex items-center gap-3"><span className="text-neonOrange-500">✓</span> Tarifa fija predecible</li>
